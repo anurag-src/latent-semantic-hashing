@@ -26,7 +26,7 @@
 
 ### :star: Output
 * A list of the candidate pairs similar to the input and also lists the measured similarity using different measures, namely :
- * Jaccard Similarity
- * Cosine Similarity
- * Euclidean Distance
- * Hamming Distance
+  * Jaccard Similarity
+  * Cosine Similarity
+  * Euclidean Distance
+  * Hamming Distance
